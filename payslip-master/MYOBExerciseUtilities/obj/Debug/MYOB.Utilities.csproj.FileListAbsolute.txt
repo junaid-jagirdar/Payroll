@@ -1,0 +1,5 @@
+C:\Code\payslip-master\payslip-master\MYOBExerciseUtilities\bin\Debug\MYOBExerciseUtilities.dll
+C:\Code\payslip-master\payslip-master\MYOBExerciseUtilities\bin\Debug\MYOBExerciseUtilities.pdb
+C:\Code\payslip-master\payslip-master\MYOBExerciseUtilities\obj\Debug\MYOB.Utilities.csproj.CoreCompileInputs.cache
+C:\Code\payslip-master\payslip-master\MYOBExerciseUtilities\obj\Debug\MYOBExerciseUtilities.dll
+C:\Code\payslip-master\payslip-master\MYOBExerciseUtilities\obj\Debug\MYOBExerciseUtilities.pdb

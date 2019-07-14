@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.Payroll.UI", "MYOBExercise\MYOB.Payroll.UI.csproj", "{BAD8FD2B-5B22-49A4-BDD4-CD8B025CF5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.Payroll.Business", "MYOBExerciseService\MYOB.Payroll.Business.csproj", "{2F4875EC-D029-4262-8991-8B4E4D100954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.Utilities", "MYOBExerciseUtilities\MYOB.Utilities.csproj", "{3B3D9BF2-FF6A-4AB7-ACCF-E0B35C546ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.Business.Tests", "MYOBExerciseService.Tests\MYOB.Business.Tests.csproj", "{A6B0C6A0-D27F-472F-94D3-4C900F871FC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E1F41A3-354A-40A1-B905-8C0C27FA03A6}"
+	ProjectSection(SolutionItems) = preProject
+		CSVInputFile.csv = CSVInputFile.csv
+		DATInputFile.dat = DATInputFile.dat
+		MYOB-Code-Exercise[2][3].pdf = MYOB-Code-Exercise[2][3].pdf
+		ReadMe.docx = ReadMe.docx
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MYOB.Payroll.Calculator", "MYOB.Payroll.Calculator\MYOB.Payroll.Calculator.csproj", "{B7E005DA-06D2-430C-B37D-1A50B44BA1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYOB.Payroll.Calculator.Tests", "MYOB.Payroll.Calculator.Tests\MYOB.Payroll.Calculator.Tests.csproj", "{F90E900B-E081-443D-BDEA-B1924366D974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD8FD2B-5B22-49A4-BDD4-CD8B025CF5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD8FD2B-5B22-49A4-BDD4-CD8B025CF5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD8FD2B-5B22-49A4-BDD4-CD8B025CF5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD8FD2B-5B22-49A4-BDD4-CD8B025CF5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4875EC-D029-4262-8991-8B4E4D100954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4875EC-D029-4262-8991-8B4E4D100954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4875EC-D029-4262-8991-8B4E4D100954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4875EC-D029-4262-8991-8B4E4D100954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3D9BF2-FF6A-4AB7-ACCF-E0B35C546ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3D9BF2-FF6A-4AB7-ACCF-E0B35C546ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3D9BF2-FF6A-4AB7-ACCF-E0B35C546ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3D9BF2-FF6A-4AB7-ACCF-E0B35C546ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B0C6A0-D27F-472F-94D3-4C900F871FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B0C6A0-D27F-472F-94D3-4C900F871FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B0C6A0-D27F-472F-94D3-4C900F871FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B0C6A0-D27F-472F-94D3-4C900F871FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E005DA-06D2-430C-B37D-1A50B44BA1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E005DA-06D2-430C-B37D-1A50B44BA1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E005DA-06D2-430C-B37D-1A50B44BA1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E005DA-06D2-430C-B37D-1A50B44BA1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90E900B-E081-443D-BDEA-B1924366D974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E900B-E081-443D-BDEA-B1924366D974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E900B-E081-443D-BDEA-B1924366D974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E900B-E081-443D-BDEA-B1924366D974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A42FEBDA-31CA-494C-B82B-E5925552990D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.csprojAssemblyReference.cache
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.AssemblyInfoInputs.cache
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.AssemblyInfo.cs
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.deps.json
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.dll
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.pdb
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.dll
+C:\Users\junai\source\repos\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.pdb
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.deps.json
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.dll
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\bin\Debug\netstandard2.0\MYOB.Payroll.Calculator.pdb
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.csproj.CoreCompileInputs.cache
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.AssemblyInfoInputs.cache
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.AssemblyInfo.cs
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.dll
+C:\Code\payslip-master\payslip-master\MYOB.Payroll.Calculator\obj\Debug\netstandard2.0\MYOB.Payroll.Calculator.pdb
